@@ -1,0 +1,4 @@
+INFO:	2023/07/15 00:23:57 init(): Env vars have been successfully loaded.
+ERROR:	2023/07/15 00:23:57 NewBroker(): Unable to create consumer, error: AMQP scheme must be either 'amqp://' or 'amqps://'
+ERROR:	2023/07/15 00:23:57 NewBot(): Unable to create broker, error: AMQP scheme must be either 'amqp://' or 'amqps://'
+FATAL ERROR:	2023/07/15 00:23:57 main(): Unable to create a new bot, error: AMQP scheme must be either 'amqp://' or 'amqps://'

@@ -2,6 +2,7 @@ package broker
 
 import (
 	amqp "github.com/rabbitmq/amqp091-go"
+	"os"
 	"pocket_guide/pkg/logging"
 )
 
@@ -11,7 +12,8 @@ type Broker struct {
 	ch     *amqp.Channel
 	conn   *amqp.Connection
 	queues map[string]amqp.Queue
-	Log    logging.Log
+	log    logging.Log
+	cfgF   *os.File
 	err    error
 }
 

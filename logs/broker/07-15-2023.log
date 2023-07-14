@@ -1,0 +1,2 @@
+ERROR:	2023/07/15 00:23:57 getConfig(): Parameter is not found.
+ERROR:	2023/07/15 00:23:57 NewBroker(): Unable to connect over TCP, error: AMQP scheme must be either 'amqp://' or 'amqps://'

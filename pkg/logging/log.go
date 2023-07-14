@@ -17,7 +17,7 @@ import (
 func (l *Log) NewLog(fileName string) {
 	var err error
 
-	l.logFile, err = os.OpenFile(fileName+time.Now().Format("01-02-2006")+".log", os.O_WRONLY|os.O_APPEND|os.O_CREATE, 0666) // FIXME Неверная дата в имени файла
+	l.logFile, err = os.OpenFile(fileName+time.Now().Format("01-02-2006")+".log", os.O_WRONLY|os.O_APPEND|os.O_CREATE, 0666)
 	if err != nil {
 		log.Println("NewLog(): Unable to open or create file for logs!", err)
 

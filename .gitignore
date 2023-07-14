@@ -2,4 +2,5 @@
 .bin
 .env
 .cfg
+logs/
 vendor/

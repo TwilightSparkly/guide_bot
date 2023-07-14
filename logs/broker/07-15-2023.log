@@ -42,3 +42,91 @@ INFO:	2023/07/15 01:29:53 NewBroker(): Configuration file has been successfully 
 INFO:	2023/07/15 01:29:53 Close(): The conf file was successfully closed.
 INFO:	2023/07/15 01:29:53 NewBroker(): Configuration file has been successfully loaded.
 INFO:	2023/07/15 01:29:53 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 01:54:40 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 01:54:40 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 01:54:40 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/15 01:54:40 NewBroker(): Connection successfully created.
+INFO:	2023/07/15 01:54:40 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 01:54:40 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 01:54:40 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/15 01:54:40 NewBroker(): Connection successfully created.
+INFO:	2023/07/15 01:54:40 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/15 01:54:40 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/15 01:54:40 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 01:54:40 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 01:54:40 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 01:54:40 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 01:54:40 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 01:54:40 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 01:54:40 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 01:54:40 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 01:54:40 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 01:54:40 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 01:54:40 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 01:54:40 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 01:54:47 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 01:54:47 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 01:54:47 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/15 01:54:47 NewBroker(): Connection successfully created.
+INFO:	2023/07/15 01:54:47 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/15 01:54:47 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 01:54:47 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 01:54:47 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/15 01:54:47 NewBroker(): Connection successfully created.
+INFO:	2023/07/15 01:54:47 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/15 01:54:48 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 01:54:48 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 01:54:48 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 01:54:48 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 01:54:48 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 01:54:48 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 01:54:48 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 01:54:48 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 01:54:48 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 01:54:48 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 01:54:48 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 01:54:48 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 02:02:38 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 02:02:38 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 02:02:38 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/15 02:02:38 NewBroker(): Connection successfully created.
+INFO:	2023/07/15 02:02:38 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/15 02:02:38 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 02:02:38 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 02:02:38 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/15 02:02:38 NewBroker(): Connection successfully created.
+INFO:	2023/07/15 02:02:38 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/15 02:02:38 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 02:02:38 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 02:02:38 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 02:02:38 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 02:02:38 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 02:02:38 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 02:02:38 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 02:02:38 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 02:02:38 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 02:02:38 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 02:02:38 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 02:02:38 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 02:02:44 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 02:02:44 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 02:02:44 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/15 02:02:44 NewBroker(): Connection successfully created.
+INFO:	2023/07/15 02:02:44 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 02:02:44 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 02:02:44 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/15 02:02:44 NewBroker(): Connection successfully created.
+INFO:	2023/07/15 02:02:44 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/15 02:02:44 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/15 02:02:44 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 02:02:44 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 02:02:44 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 02:02:44 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 02:02:44 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 02:02:44 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 02:02:44 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 02:02:44 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 02:02:44 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 02:02:44 Close(): The conf file was successfully closed.
+INFO:	2023/07/15 02:02:44 NewBroker(): Configuration file has been successfully loaded.
+INFO:	2023/07/15 02:02:44 Close(): The conf file was successfully closed.

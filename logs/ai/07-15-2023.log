@@ -1,8 +1,7 @@
-INFO:	2023/07/15 00:27:51 init(): Env vars have been successfully loaded.
-INFO:	2023/07/15 00:27:51 NewAi(): The token was successfully received.
-INFO:	2023/07/15 00:27:51 newMsgBrk(): Consumer has been successfully created.
-INFO:	2023/07/15 00:27:51 newMsgBrk(): Producer has been successfully created.
-INFO:	2023/07/15 00:27:51 newMsgBrk(): A consumer queue 'aiRequest' has been successfully created.
-INFO:	2023/07/15 00:27:51 newMsgBrk(): A producer queue 'Response' has been successfully created.
-INFO:	2023/07/15 00:27:51 NewAi(): Broker has been successfully created.
-FATAL ERROR:	2023/07/15 00:27:51 main(): Cannot consume messages, error:getConfig(): parameter is not found
+INFO:	2023/07/15 01:29:49 init(): Env vars have been successfully loaded.
+INFO:	2023/07/15 01:29:49 NewAi(): The token was successfully received.
+INFO:	2023/07/15 01:29:49 newMsgBrk(): Consumer has been successfully created.
+INFO:	2023/07/15 01:29:49 newMsgBrk(): Producer has been successfully created.
+INFO:	2023/07/15 01:29:49 newMsgBrk(): A consumer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/15 01:29:49 newMsgBrk(): A producer queue 'Response' has been successfully created.
+INFO:	2023/07/15 01:29:49 NewAi(): Broker has been successfully created.

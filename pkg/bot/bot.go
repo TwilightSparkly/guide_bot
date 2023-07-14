@@ -156,7 +156,7 @@ func (b *Bot) Sender() error {
 // Ordinary messages are sent by the broker to the microservice for working with AI,
 // command messages are sent to their own handler
 func (b *Bot) handleMsg(update tgWrapper.Update) error {
-	//Background context to broker
+	// Background context to broker
 	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
 	defer cancel()
 

@@ -67,6 +67,7 @@ func main() {
 				//Get response from AI API
 				response, err := a.Client.Chat(ctx, request)
 				if err != nil {
+					//FIXME иногда вылезает вот эта ошибка в чате
 					msg.Data = "Извините, сервис для общения с искусственным интеллектом временно не работает."
 
 					data, err := json.Marshal(msg)

@@ -1,0 +1,140 @@
+INFO:	2023/07/13 19:06:51 handleMsg(): Producer has been successfully created.
+INFO:	2023/07/13 19:06:51 handleMsg(): A producer queue 'aiRequest' has been successfully created.
+zhaQvQwOj8p14lXKWaAAq6-esJlGtqY/getMe": EOF
+INFO:	2023/07/13 19:45:50 init(): Env vars have been successfully loaded.
+INFO:	2023/07/13 19:45:50 NewBot(): The token was successfully received.
+INFO:	2023/07/13 19:45:50 NewBot(): Authorized on account: guide_in_pocket_bot
+INFO:	2023/07/13 19:45:50 main(): Bot successfully created and connected to telegram api server.
+INFO:	2023/07/13 19:45:50 Sender(): Consumer has been successfully created.
+INFO:	2023/07/13 19:45:50 Sender(): A consumer queue has been successfully created.
+INFO:	2023/07/13 19:46:09 handleMsg(): Producer has been successfully created.
+INFO:	2023/07/13 19:46:09 handleMsg(): A producer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 19:49:01 init(): Env vars have been successfully loaded.
+INFO:	2023/07/13 19:49:01 NewBot(): The token was successfully received.
+INFO:	2023/07/13 19:49:01 NewBot(): Authorized on account: guide_in_pocket_bot
+INFO:	2023/07/13 19:49:01 main(): Bot successfully created and connected to telegram api server.
+INFO:	2023/07/13 19:49:01 Sender(): Consumer has been successfully created.
+INFO:	2023/07/13 19:49:01 Sender(): A consumer queue has been successfully created.
+INFO:	2023/07/13 19:49:10 handleMsg(): Producer has been successfully created.
+INFO:	2023/07/13 19:49:10 handleMsg(): A producer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 20:22:03 init(): Env vars have been successfully loaded.
+INFO:	2023/07/13 20:22:03 NewBroker(): Consumer has been successfully created.
+INFO:	2023/07/13 20:22:03 NewBroker(): A consumer queue has been successfully created.
+INFO:	2023/07/13 20:22:03 NewBroker(): Producer has been successfully created.
+INFO:	2023/07/13 20:22:03 NewBroker(): A producer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 20:22:03 NewBot(): Broker has been successfully created.
+INFO:	2023/07/13 20:22:03 NewBot(): The token was successfully received.
+INFO:	2023/07/13 20:22:03 NewBot(): Authorized on account: guide_in_pocket_bot
+INFO:	2023/07/13 20:22:03 main(): Bot successfully created and connected to telegram api server.
+INFO:	2023/07/13 20:24:50 init(): Env vars have been successfully loaded.
+INFO:	2023/07/13 20:24:50 NewBroker(): Consumer has been successfully created.
+INFO:	2023/07/13 20:24:50 NewBroker(): A consumer queue has been successfully created.
+INFO:	2023/07/13 20:24:50 NewBroker(): Producer has been successfully created.
+INFO:	2023/07/13 20:24:50 NewBroker(): A producer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 20:24:50 NewBot(): Broker has been successfully created.
+INFO:	2023/07/13 20:24:50 NewBot(): The token was successfully received.
+INFO:	2023/07/13 20:24:50 NewBot(): Authorized on account: guide_in_pocket_bot
+INFO:	2023/07/13 20:24:50 main(): Bot successfully created and connected to telegram api server.
+INFO:	2023/07/13 20:49:09 init(): Env vars have been successfully loaded.
+INFO:	2023/07/13 20:49:09 NewBroker(): Consumer has been successfully created.
+INFO:	2023/07/13 20:49:09 NewBroker(): A consumer queue has been successfully created.
+INFO:	2023/07/13 20:49:09 NewBroker(): Producer has been successfully created.
+INFO:	2023/07/13 20:49:09 NewBroker(): A producer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 20:49:09 NewBot(): Broker has been successfully created.
+INFO:	2023/07/13 20:49:09 NewBot(): The token was successfully received.
+INFO:	2023/07/13 20:49:09 NewBot(): Authorized on account: guide_in_pocket_bot
+INFO:	2023/07/13 20:49:09 main(): Bot successfully created and connected to telegram api server.
+INFO:	2023/07/13 22:55:34 init(): Env vars have been successfully loaded.
+INFO:	2023/07/13 22:55:34 NewBroker(): Consumer has been successfully created.
+INFO:	2023/07/13 22:55:34 NewBroker(): A consumer queue has been successfully created.
+INFO:	2023/07/13 22:55:34 NewBroker(): Producer has been successfully created.
+INFO:	2023/07/13 22:55:34 NewBroker(): A producer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 22:55:34 NewBot(): Broker has been successfully created.
+INFO:	2023/07/13 22:55:34 NewBot(): The token was successfully received.
+INFO:	2023/07/13 22:55:34 NewBot(): Authorized on account: guide_in_pocket_bot
+INFO:	2023/07/13 22:55:34 main(): Bot successfully created and connected to telegram api server.
+INFO:	2023/07/13 22:58:42 init(): Env vars have been successfully loaded.
+INFO:	2023/07/13 22:58:42 NewBroker(): Consumer has been successfully created.
+INFO:	2023/07/13 22:58:42 NewBroker(): A consumer queue has been successfully created.
+INFO:	2023/07/13 22:58:42 NewBroker(): Producer has been successfully created.
+INFO:	2023/07/13 22:58:42 NewBroker(): A producer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 22:58:42 NewBot(): Broker has been successfully created.
+INFO:	2023/07/13 22:58:42 NewBot(): The token was successfully received.
+INFO:	2023/07/13 22:58:43 NewBot(): Authorized on account: guide_in_pocket_bot
+INFO:	2023/07/13 22:58:43 main(): Bot successfully created and connected to telegram api server.
+INFO:	2023/07/13 23:00:28 init(): Env vars have been successfully loaded.
+INFO:	2023/07/13 23:00:28 NewBroker(): Consumer has been successfully created.
+INFO:	2023/07/13 23:00:28 NewBroker(): A consumer queue has been successfully created.
+INFO:	2023/07/13 23:00:28 NewBroker(): Producer has been successfully created.
+INFO:	2023/07/13 23:00:28 NewBroker(): A producer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 23:00:28 NewBot(): Broker has been successfully created.
+INFO:	2023/07/13 23:00:28 NewBot(): The token was successfully received.
+INFO:	2023/07/13 23:00:28 NewBot(): Authorized on account: guide_in_pocket_bot
+INFO:	2023/07/13 23:00:28 main(): Bot successfully created and connected to telegram api server.
+INFO:	2023/07/13 23:02:14 init(): Env vars have been successfully loaded.
+INFO:	2023/07/13 23:02:14 NewBroker(): Consumer has been successfully created.
+INFO:	2023/07/13 23:02:14 NewBroker(): A consumer queue has been successfully created.
+INFO:	2023/07/13 23:02:14 NewBroker(): Producer has been successfully created.
+INFO:	2023/07/13 23:02:14 NewBroker(): A producer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 23:02:14 NewBot(): Broker has been successfully created.
+INFO:	2023/07/13 23:02:14 NewBot(): The token was successfully received.
+INFO:	2023/07/13 23:02:14 NewBot(): Authorized on account: guide_in_pocket_bot
+INFO:	2023/07/13 23:02:14 main(): Bot successfully created and connected to telegram api server.
+INFO:	2023/07/13 23:10:08 init(): Env vars have been successfully loaded.
+INFO:	2023/07/13 23:10:08 NewBroker(): Consumer has been successfully created.
+INFO:	2023/07/13 23:10:08 NewBroker(): A consumer queue has been successfully created.
+INFO:	2023/07/13 23:10:08 NewBroker(): Producer has been successfully created.
+INFO:	2023/07/13 23:10:08 NewBroker(): A producer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 23:10:08 NewBot(): Broker has been successfully created.
+INFO:	2023/07/13 23:10:08 NewBot(): The token was successfully received.
+INFO:	2023/07/13 23:10:08 NewBot(): Authorized on account: guide_in_pocket_bot
+INFO:	2023/07/13 23:10:08 main(): Bot successfully created and connected to telegram api server.
+INFO:	2023/07/13 23:10:11 init(): Env vars have been successfully loaded.
+INFO:	2023/07/13 23:18:11 init(): Env vars have been successfully loaded.
+INFO:	2023/07/13 23:18:14 init(): Env vars have been successfully loaded.
+INFO:	2023/07/13 23:18:14 NewBroker(): Consumer has been successfully created.
+INFO:	2023/07/13 23:18:14 NewBroker(): A consumer queue has been successfully created.
+INFO:	2023/07/13 23:18:14 NewBroker(): Producer has been successfully created.
+INFO:	2023/07/13 23:18:14 NewBroker(): A producer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 23:18:14 NewBot(): Broker has been successfully created.
+INFO:	2023/07/13 23:18:14 NewBot(): The token was successfully received.
+INFO:	2023/07/13 23:18:14 NewBot(): Authorized on account: guide_in_pocket_bot
+INFO:	2023/07/13 23:18:14 main(): Bot successfully created and connected to telegram api server.
+INFO:	2023/07/13 23:39:33 init(): Env vars have been successfully loaded.
+INFO:	2023/07/13 23:39:37 init(): Env vars have been successfully loaded.
+INFO:	2023/07/13 23:39:37 NewBroker(): Consumer has been successfully created.
+INFO:	2023/07/13 23:39:37 NewBroker(): A consumer queue has been successfully created.
+INFO:	2023/07/13 23:39:37 NewBroker(): Producer has been successfully created.
+INFO:	2023/07/13 23:39:37 NewBroker(): A producer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 23:39:37 NewBot(): Broker has been successfully created.
+INFO:	2023/07/13 23:39:37 NewBot(): The token was successfully received.
+INFO:	2023/07/13 23:39:37 NewBot(): Authorized on account: guide_in_pocket_bot
+INFO:	2023/07/13 23:39:37 main(): Bot successfully created and connected to telegram api server.
+INFO:	2023/07/13 23:51:05 init(): Env vars have been successfully loaded.
+INFO:	2023/07/13 23:51:05 NewBroker(): Consumer has been successfully created.
+INFO:	2023/07/13 23:51:05 NewBroker(): A consumer queue has been successfully created.
+INFO:	2023/07/13 23:51:05 NewBroker(): Producer has been successfully created.
+INFO:	2023/07/13 23:51:05 NewBroker(): A producer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 23:51:05 NewBot(): Broker has been successfully created.
+INFO:	2023/07/13 23:51:05 NewBot(): The token was successfully received.
+INFO:	2023/07/13 23:51:06 NewBot(): Authorized on account: guide_in_pocket_bot
+INFO:	2023/07/13 23:51:06 main(): Bot successfully created and connected to telegram api server.
+INFO:	2023/07/13 23:51:08 init(): Env vars have been successfully loaded.
+INFO:	2023/07/14 11:38:40 init(): Env vars have been successfully loaded.
+INFO:	2023/07/14 11:38:40 NewBroker(): Consumer has been successfully created.
+INFO:	2023/07/14 11:38:40 NewBroker(): A consumer queue has been successfully created.
+INFO:	2023/07/14 11:38:40 NewBroker(): Producer has been successfully created.
+INFO:	2023/07/14 11:38:40 NewBroker(): A producer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/14 11:38:40 NewBot(): Broker has been successfully created.
+INFO:	2023/07/14 11:38:40 NewBot(): The token was successfully received.
+INFO:	2023/07/14 11:38:40 NewBot(): Authorized on account: guide_in_pocket_bot
+INFO:	2023/07/14 11:38:40 main(): Bot successfully created and connected to telegram api server.
+INFO:	2023/07/14 11:39:00 init(): Env vars have been successfully loaded.
+INFO:	2023/07/14 11:39:00 NewBroker(): Consumer has been successfully created.
+INFO:	2023/07/14 11:39:00 NewBroker(): A consumer queue has been successfully created.
+INFO:	2023/07/14 11:39:00 NewBroker(): Producer has been successfully created.
+INFO:	2023/07/14 11:39:00 NewBroker(): A producer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/14 11:39:00 NewBot(): Broker has been successfully created.
+INFO:	2023/07/14 11:39:00 NewBot(): The token was successfully received.
+INFO:	2023/07/14 11:39:01 NewBot(): Authorized on account: guide_in_pocket_bot
+INFO:	2023/07/14 11:39:01 main(): Bot successfully created and connected to telegram api server.

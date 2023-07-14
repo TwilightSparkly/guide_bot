@@ -1,0 +1,78 @@
+INFO:	2023/07/13 19:09:29 main(): Consumer has been successfully created.
+INFO:	2023/07/13 19:09:29 main(): Producer has been successfully created.
+INFO:	2023/07/13 19:09:29 main(): A consumer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 19:09:29 main(): A producer queue 'Response' has been successfully created.
+INFO:	2023/07/13 19:45:47 main(): Consumer has been successfully created.
+INFO:	2023/07/13 19:45:47 main(): Producer has been successfully created.
+INFO:	2023/07/13 19:45:47 main(): A consumer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 19:45:47 main(): A producer queue 'Response' has been successfully created.
+INFO:	2023/07/13 20:20:49 newMsgBrk(): Consumer has been successfully created.
+INFO:	2023/07/13 20:20:49 newMsgBrk(): Producer has been successfully created.
+INFO:	2023/07/13 20:20:49 newMsgBrk(): A consumer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 20:20:49 newMsgBrk(): A producer queue 'Response' has been successfully created.
+FATAL ERROR:	2023/07/13 20:20:49 main(): Cannot consume messages, error:Exception (504) Reason: "channel/connection is not open"
+INFO:	2023/07/13 20:21:54 newMsgBrk(): Consumer has been successfully created.
+INFO:	2023/07/13 20:21:54 newMsgBrk(): Producer has been successfully created.
+INFO:	2023/07/13 20:21:54 newMsgBrk(): A consumer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 20:21:54 newMsgBrk(): A producer queue 'Response' has been successfully created.
+INFO:	2023/07/13 20:24:46 newMsgBrk(): Consumer has been successfully created.
+INFO:	2023/07/13 20:24:46 newMsgBrk(): Producer has been successfully created.
+INFO:	2023/07/13 20:24:46 newMsgBrk(): A consumer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 20:24:46 newMsgBrk(): A producer queue 'Response' has been successfully created.
+INFO:	2023/07/13 20:49:05 newMsgBrk(): Consumer has been successfully created.
+INFO:	2023/07/13 20:49:05 newMsgBrk(): Producer has been successfully created.
+INFO:	2023/07/13 20:49:05 newMsgBrk(): A consumer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 20:49:05 newMsgBrk(): A producer queue 'Response' has been successfully created.
+INFO:	2023/07/13 22:55:39 newMsgBrk(): Consumer has been successfully created.
+INFO:	2023/07/13 22:55:39 newMsgBrk(): Producer has been successfully created.
+INFO:	2023/07/13 22:55:39 newMsgBrk(): A consumer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 22:55:39 newMsgBrk(): A producer queue 'Response' has been successfully created.
+INFO:	2023/07/13 22:58:46 newMsgBrk(): Consumer has been successfully created.
+INFO:	2023/07/13 22:58:46 newMsgBrk(): Producer has been successfully created.
+INFO:	2023/07/13 22:58:46 newMsgBrk(): A consumer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 22:58:46 newMsgBrk(): A producer queue 'Response' has been successfully created.
+INFO:	2023/07/13 23:00:23 newMsgBrk(): Consumer has been successfully created.
+INFO:	2023/07/13 23:00:23 newMsgBrk(): Producer has been successfully created.
+INFO:	2023/07/13 23:00:23 newMsgBrk(): A consumer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 23:00:23 newMsgBrk(): A producer queue 'Response' has been successfully created.
+INFO:	2023/07/13 23:02:17 newMsgBrk(): Consumer has been successfully created.
+INFO:	2023/07/13 23:02:17 newMsgBrk(): Producer has been successfully created.
+INFO:	2023/07/13 23:02:17 newMsgBrk(): A consumer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 23:02:17 newMsgBrk(): A producer queue 'Response' has been successfully created.
+INFO:	2023/07/13 23:10:11 NewAi(): The token was successfully received.
+INFO:	2023/07/13 23:10:11 newMsgBrk(): Consumer has been successfully created.
+INFO:	2023/07/13 23:10:11 newMsgBrk(): Producer has been successfully created.
+INFO:	2023/07/13 23:10:11 newMsgBrk(): A consumer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 23:10:11 newMsgBrk(): A producer queue 'Response' has been successfully created.
+INFO:	2023/07/13 23:18:11 NewAi(): The token was successfully received.
+INFO:	2023/07/13 23:18:11 newMsgBrk(): Consumer has been successfully created.
+INFO:	2023/07/13 23:18:11 newMsgBrk(): Producer has been successfully created.
+INFO:	2023/07/13 23:18:11 newMsgBrk(): A consumer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 23:18:11 newMsgBrk(): A producer queue 'Response' has been successfully created.
+INFO:	2023/07/13 23:18:11 NewAi(): Broker has been successfully created.
+INFO:	2023/07/13 23:39:33 NewAi(): The token was successfully received.
+INFO:	2023/07/13 23:39:33 newMsgBrk(): Consumer has been successfully created.
+INFO:	2023/07/13 23:39:33 newMsgBrk(): Producer has been successfully created.
+INFO:	2023/07/13 23:39:33 newMsgBrk(): A consumer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 23:39:33 newMsgBrk(): A producer queue 'Response' has been successfully created.
+INFO:	2023/07/13 23:39:33 NewAi(): Broker has been successfully created.
+INFO:	2023/07/13 23:51:08 NewAi(): The token was successfully received.
+INFO:	2023/07/13 23:51:08 newMsgBrk(): Consumer has been successfully created.
+INFO:	2023/07/13 23:51:08 newMsgBrk(): Producer has been successfully created.
+INFO:	2023/07/13 23:51:08 newMsgBrk(): A consumer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/13 23:51:08 newMsgBrk(): A producer queue 'Response' has been successfully created.
+INFO:	2023/07/13 23:51:08 NewAi(): Broker has been successfully created.
+INFO:	2023/07/14 11:38:36 init(): Env vars have been successfully loaded.
+INFO:	2023/07/14 11:38:36 NewAi(): The token was successfully received.
+INFO:	2023/07/14 11:38:36 newMsgBrk(): Consumer has been successfully created.
+INFO:	2023/07/14 11:38:36 newMsgBrk(): Producer has been successfully created.
+INFO:	2023/07/14 11:38:36 newMsgBrk(): A consumer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/14 11:38:36 newMsgBrk(): A producer queue 'Response' has been successfully created.
+INFO:	2023/07/14 11:38:36 NewAi(): Broker has been successfully created.
+INFO:	2023/07/14 11:38:58 init(): Env vars have been successfully loaded.
+INFO:	2023/07/14 11:38:58 NewAi(): The token was successfully received.
+INFO:	2023/07/14 11:38:58 newMsgBrk(): Consumer has been successfully created.
+INFO:	2023/07/14 11:38:58 newMsgBrk(): Producer has been successfully created.
+INFO:	2023/07/14 11:38:58 newMsgBrk(): A consumer queue 'aiRequest' has been successfully created.
+INFO:	2023/07/14 11:38:58 newMsgBrk(): A producer queue 'Response' has been successfully created.
+INFO:	2023/07/14 11:38:58 NewAi(): Broker has been successfully created.

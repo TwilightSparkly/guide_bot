@@ -1,0 +1,191 @@
+INFO:	2023/07/13 19:06:51 Close(): The connection was successfully closed.
+ERROR:	2023/07/13 19:06:51 Close(): Unable to close the channel, error: Exception (504) Reason: "channel/connection is not open"
+INFO:	2023/07/13 19:45:47 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 19:45:47 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 19:45:47 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 19:45:47 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 19:45:47 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 19:45:47 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 19:45:50 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 19:45:50 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 19:45:50 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 19:46:09 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 19:46:09 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 19:46:09 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 19:46:09 Close(): The connection was successfully closed.
+ERROR:	2023/07/13 19:46:09 Close(): Unable to close the channel, error: Exception (504) Reason: "channel/connection is not open"
+INFO:	2023/07/13 19:49:01 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 19:49:01 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 19:49:01 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 19:49:10 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 19:49:10 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 19:49:10 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 19:49:10 Close(): The connection was successfully closed.
+ERROR:	2023/07/13 19:49:10 Close(): Unable to close the channel, error: Exception (504) Reason: "channel/connection is not open"
+INFO:	2023/07/13 20:20:49 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 20:20:49 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 20:20:49 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 20:20:49 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 20:20:49 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 20:20:49 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 20:20:49 Close(): The connection was successfully closed.
+ERROR:	2023/07/13 20:20:49 Close(): Unable to close the channel, error: Exception (504) Reason: "channel/connection is not open"
+INFO:	2023/07/13 20:20:49 Close(): The connection was successfully closed.
+ERROR:	2023/07/13 20:20:49 Close(): Unable to close the channel, error: Exception (504) Reason: "channel/connection is not open"
+ERROR:	2023/07/13 20:20:49 Consume(): Unable to consume publishing messages, error: Exception (504) Reason: "channel/connection is not open"
+INFO:	2023/07/13 20:21:54 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 20:21:54 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 20:21:54 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 20:21:54 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 20:21:54 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 20:21:54 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 20:22:03 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 20:22:03 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 20:22:03 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 20:22:03 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 20:22:03 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 20:22:03 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 20:24:46 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 20:24:46 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 20:24:46 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 20:24:46 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 20:24:46 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 20:24:46 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 20:24:50 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 20:24:50 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 20:24:50 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 20:24:50 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 20:24:50 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 20:24:50 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 20:49:05 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 20:49:05 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 20:49:05 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 20:49:05 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 20:49:05 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 20:49:05 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 20:49:09 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 20:49:09 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 20:49:09 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 20:49:09 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 20:49:09 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 20:49:09 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 22:55:34 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 22:55:34 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 22:55:34 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 22:55:34 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 22:55:34 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 22:55:34 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 22:55:39 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 22:55:39 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 22:55:39 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 22:55:39 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 22:55:39 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 22:55:39 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 22:58:42 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 22:58:42 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 22:58:42 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 22:58:42 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 22:58:42 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 22:58:42 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 22:58:46 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 22:58:46 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 22:58:46 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 22:58:46 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 22:58:46 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 22:58:46 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 23:00:23 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:00:23 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:00:23 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:00:23 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:00:23 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 23:00:23 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 23:00:28 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:00:28 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:00:28 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 23:00:28 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:00:28 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:00:28 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 23:02:14 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:02:14 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:02:14 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 23:02:14 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:02:14 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:02:14 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 23:02:17 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:02:17 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:02:17 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:02:17 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:02:17 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 23:02:17 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 23:10:08 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:10:08 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:10:08 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 23:10:08 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:10:08 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:10:08 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 23:10:11 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:10:11 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:10:11 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:10:11 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:10:11 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 23:10:11 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 23:18:11 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:18:11 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:18:11 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:18:11 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:18:11 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 23:18:11 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 23:18:14 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:18:14 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:18:14 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 23:18:14 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:18:14 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:18:14 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 23:39:33 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:39:33 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:39:33 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:39:33 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:39:33 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 23:39:33 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 23:39:37 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:39:37 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:39:37 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 23:39:37 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:39:37 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:39:37 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 23:51:05 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:51:05 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:51:05 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/13 23:51:05 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:51:05 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:51:05 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 23:51:08 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:51:08 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:51:08 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/13 23:51:08 NewBroker(): Connection successfully created.
+INFO:	2023/07/13 23:51:08 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/13 23:51:08 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/14 11:38:36 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/14 11:38:36 NewBroker(): Connection successfully created.
+INFO:	2023/07/14 11:38:36 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/14 11:38:36 NewBroker(): Connection successfully created.
+INFO:	2023/07/14 11:38:36 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/14 11:38:36 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/14 11:38:40 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/14 11:38:40 NewBroker(): Connection successfully created.
+INFO:	2023/07/14 11:38:40 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/14 11:38:40 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/14 11:38:40 NewBroker(): Connection successfully created.
+INFO:	2023/07/14 11:38:40 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/14 11:38:58 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/14 11:38:58 NewBroker(): Connection successfully created.
+INFO:	2023/07/14 11:38:58 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/14 11:38:58 NewBroker(): Connection successfully created.
+INFO:	2023/07/14 11:38:58 MakeQueue(): A queue: aiRequest has been successfully created.
+INFO:	2023/07/14 11:38:58 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/14 11:39:00 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/14 11:39:00 NewBroker(): Connection successfully created.
+INFO:	2023/07/14 11:39:00 MakeQueue(): A queue: Response has been successfully created.
+INFO:	2023/07/14 11:39:00 NewBroker(): Connected to: amqp://guest:guest@localhost:5672/
+INFO:	2023/07/14 11:39:00 NewBroker(): Connection successfully created.
+INFO:	2023/07/14 11:39:00 MakeQueue(): A queue: aiRequest has been successfully created.

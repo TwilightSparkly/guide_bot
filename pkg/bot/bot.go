@@ -166,37 +166,47 @@ func (b *Bot) handleMsg(update tgWrapper.Update) error {
 		if update.Message.IsCommand() {
 
 		} else { // If we got a standard message - send to AI service
-			// Creating a variable with the desired type to send to the telegram server via API
-			msg := tgWrapper.NewMessage(update.Message.Chat.ID, "Дайте подумать...")
-			var data []byte
-
-			data, err := json.Marshal(update.Message)
+			err := b.msg2Ai(update, ctx)
 			if err != nil {
-				b.log.LogErr.Println("handleMsg(): Unable to convert into json, error:", err)
-				return err
-			}
-
-			// Sending a notification about request processing
-			_, err = b.bot.Send(msg)
-			if err != nil {
-				b.log.LogErr.Println("handleMsg(): Unable to send a message to telegram, error:", err)
-			}
-
-			// Trying to publish message to AI service
-			err = b.Producer.Publish(data, "aiRequest", ctx)
-			if err != nil {
-				b.log.LogErr.Println("handleMsg(): Unable to publish message to AI service, error:", err)
-
-				// Creating a variable with the desired type to send to the telegram server via API
-				msg = tgWrapper.NewMessage(update.Message.Chat.ID, "Извините, сервис для общения с искусственным "+
-					"интеллектом временно не работает.")
-				_, err = b.bot.Send(msg)
-				if err != nil {
-					b.log.LogErr.Println("handleMsg(): Unable to send a message to telegram, error:", err)
-				}
+				b.log.LogErr.Println("handleMsg(): Unable to send message to AI service, error:", err)
 				return err
 			}
 		}
+	}
+
+	return nil
+}
+
+func (b *Bot) msg2Ai(update tgWrapper.Update, ctx context.Context) error {
+	// Creating a variable with the desired type to send to the telegram server via API
+	msg := tgWrapper.NewMessage(update.Message.Chat.ID, "Дайте подумать...")
+	var data []byte
+
+	data, err := json.Marshal(update.Message)
+	if err != nil {
+		b.log.LogErr.Println("msg2Ai(): Unable to convert into json, error:", err)
+		return err
+	}
+
+	// Sending a notification about request processing
+	_, err = b.bot.Send(msg)
+	if err != nil {
+		b.log.LogErr.Println("msg2Ai(): Unable to send a message to telegram, error:", err)
+	}
+
+	// Trying to publish message to AI service
+	err = b.Producer.Publish(data, "aiRequest", ctx)
+	if err != nil {
+		b.log.LogErr.Println("msg2Ai(): Unable to publish message to AI service, error:", err)
+
+		// Creating a variable with the desired type to send to the telegram server via API
+		msg = tgWrapper.NewMessage(update.Message.Chat.ID, "Извините, сервис для общения с искусственным "+
+			"интеллектом временно не работает.")
+		_, err = b.bot.Send(msg)
+		if err != nil {
+			b.log.LogErr.Println("msg2Ai(): Unable to send a message to telegram, error:", err)
+		}
+		return err
 	}
 
 	return nil
